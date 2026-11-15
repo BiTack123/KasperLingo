@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">KasperLingo</string>
+    
+    <string name="translator">Переводчик</string>
+    <string name="english_to_russian">Английский → Русский</string>
+    <string name="favorites">Избранное</string>
+    <string name="back">Назад</string>
+    <string name="search_placeholder">Введите слово на английском</string>
+    <string name="clear">Очистить</string>
+    <string name="delete">Удалить</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+    
+    <string name="history_empty_title">История переводов пуста</string>
+    <string name="history_empty_subtitle">Начните вводить слова для перевода</string>
+    <string name="favorites_empty_title">Нет избранных переводов</string>
+    <string name="favorites_empty_subtitle">Добавляйте переводы в избранное, чтобы быстро к ним возвращаться</string>
+    
+    <string name="no_saved_words">Нет сохраненных слов</string>
+    <string name="one_word">1 слово</string>
+    <string name="words_count">%d слов</string>
+    <string name="words_count_few">%d слова</string>
+    
+    <string name="error_enter_word">Введите слово для перевода</string>
+    <string name="error_english_only">Введите слово на английском языке</string>
+    <string name="error_no_internet">Нет подключения к интернету</string>
+    <string name="error_translation_not_found">Перевод не найден</string>
+    <string name="error_server">Ошибка сервера</string>
+    <string name="error_network">Ошибка сети</string>
+    <string name="error_unknown">Произошла ошибка</string>
+</resources>
